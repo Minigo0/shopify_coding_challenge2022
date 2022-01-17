@@ -1,4 +1,4 @@
-# shopify_coding_challenge2022
+# Summer 2022 Data Science Intern Challenge
 In this repository, you can find 3 things:
 
 - A PDF containing my answers to the conding challenge given by Shopify for the 2022 Data Internship;
